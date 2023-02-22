@@ -53,9 +53,4 @@ int main() {
     s.on();
     s.on();
     return 0;
-}
-
-
-        
-
-        
+}      
